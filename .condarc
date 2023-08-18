@@ -1,0 +1,11 @@
+channels:
+  - http://mirrors.bfsu.edu.cn/anaconda/cloud/bioconda/
+  - http://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.bfsu.edu.cn/anaconda/cloud/qiime2/
+  - http://mirrors.bfsu.edu.cn/anaconda/pkgs/main/
+  - http://mirrors.bfsu.edu.cn/anaconda/cloud/pytorch/
+  - http://mirrors.bfsu.edu.cn/anaconda/cloud/menpo/
+  - http://mirrors.bfsu.edu.cn/anaconda/cloud/msys2/
+  - http://mirrors.bfsu.edu.cn/anaconda/pkgs/free/
+show_channel_urls: true
+auto_activate_base: true
